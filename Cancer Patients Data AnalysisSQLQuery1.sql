@@ -19,10 +19,6 @@ Order by Age_Diagnosed;
 Select Distinct Smoking_Status From PortfolioProject..CancerInfo
 
 
-
-ci.Vital_Status,
-
-
 -- Analyzing Smoking_Status VS Gender  VS Age_diagnosed
 
 Select Smoking_Status, Gender, COUNT(*) AS Total, AVG(Age_Diagnosed) AS AvgAge
@@ -174,7 +170,7 @@ Group by AJCC_Stage, vital_status;
 
 
 
--- AJCC Stage vs Vital Status — Only Where Each Combo Has > 3 Patients
+-- AJCC Stage vs Vital Status â€” Only Where Each Combo Has > 3 Patients
 Select AJCC_Stage, vital_status, COUNT(*) AS CountPatients
 From CancerInfo
 Group by AJCC_Stage, vital_status
