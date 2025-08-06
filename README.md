@@ -1,4 +1,4 @@
-# Cancer-Patient-Data-Analysis-SQL-PROJECT-
+# Cancer-Patients-Data-Analysis-SQL-PROJECT-
 This project explores a clinical dataset related to cancer patients, focusing on key medical variables such as AJCC cancer stage, tumor laterality, smoking status, vital status, and treatment outcomes (local and regional control).
 
 ## Dataset source
@@ -53,4 +53,4 @@ Regional_Control
 ### View: Patient Count by Vital Status
 
 ## SQL Code Snippet
-<img width="1895" height="844" alt="SQL Code Snippet" src="https://github.com/user-attachments/assets/94f19b5e-88e2-4542-b185-7210d92b665a" />
+<img width="1895" height="844" alt="SQL Code Snippet" src="https://github.com/Rachy143/Cancer-Patient-Data-Analysis-SQL-PROJECT-/blob/main/SQL_code_snippet.png" />
