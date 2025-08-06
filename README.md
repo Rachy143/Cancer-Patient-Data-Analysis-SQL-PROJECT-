@@ -9,8 +9,8 @@ Dataset Tables
 1. CancerInfo
 Contains demographic and diagnostic information including:
 
-Patient_ID,
-Gender,
+**.** Patient_ID,
+**.** Gender,
 Age_Diagnosed,
 Smoking_Status,
 Tumor_Laterality,
