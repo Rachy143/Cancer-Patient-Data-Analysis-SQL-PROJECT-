@@ -52,4 +52,5 @@ Regional_Control
 
 ### View: Patient Count by Vital Status
 
-
+## SQL Code Snippet
+<img width="1895" height="844" alt="SQL Code Snippet" src="https://github.com/user-attachments/assets/94f19b5e-88e2-4542-b185-7210d92b665a" />
