@@ -8,18 +8,19 @@ Dataset Tables
 
 1. CancerInfo
 Contains demographic and diagnostic information including:
-Patient_ID
-Gender
-Age_Diagnosed
-Smoking_Status
-Tumor_Laterality
-AJCC_Stage
+
+Patient_ID,
+Gender,
+Age_Diagnosed,
+Smoking_Status,
+Tumor_Laterality,
+AJCC_Stage,
 Vital_Status
 
 2. CancerTreatment
 Includes treatment and control outcomes:
-Patient_ID
-Therapeutic_Combination
-Local_Control
+Patient_ID,
+Therapeutic_Combination,
+Local_Control,
 Regional_Control
 
