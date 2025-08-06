@@ -54,3 +54,7 @@ Regional_Control
 
 ## SQL Code Snippet
 <img width="1895" height="844" alt="SQL Code Snippet" src="https://github.com/Rachy143/Cancer-Patient-Data-Analysis-SQL-PROJECT-/blob/main/SQL_code_snippet.png" />
+
+## SQL Code Output
+<img width="1895" height="844" alt="SQL Code Snippet" src="https://github.com/Rachy143/Cancer-Patient-Data-Analysis-SQL-PROJECT-/blob/main/SQL_output.png" />
+
