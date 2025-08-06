@@ -35,21 +35,21 @@ Regional_Control
 - Smoking vs Cancer Stage
 - Smoking vs Vital Status
 
-## Tumor Laterality vs Vital Status
+### Tumor Laterality vs Vital Status
 
-## Smoking Status Outcome Percentages
+### Smoking Status Outcome Percentages
 
-## Treatment Effectiveness
+### Treatment Effectiveness
 - AJCC Stage vs Local Control
 - AJCC Stage vs Regional Control
 - AJCC Stage vs Both Controls
 
-## Treatment Type vs Vital Status
+### Treatment Type vs Vital Status
 
-## Filtering Based on Patient Volume
+### Filtering Based on Patient Volume
 - Local Control Outcomes With More Than 20 Patients
 - AJCC Stage vs Vital Status (All & > 3 Patients)
 
-## View: Patient Count by Vital Status
+### View: Patient Count by Vital Status
 
 
